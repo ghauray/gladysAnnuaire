@@ -70,7 +70,7 @@
 		</div>
 	</div>
 </div>
-
+<!-- Popup -->
 <div class="modaleEdit" style="display:none">
 	<div class="popup">
 		<header>
@@ -90,3 +90,4 @@
 		</form>
 	</div>
 </div>
+<!-- /Popup -->
